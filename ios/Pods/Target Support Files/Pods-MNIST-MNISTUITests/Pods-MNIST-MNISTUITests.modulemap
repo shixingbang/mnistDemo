@@ -1,0 +1,6 @@
+framework module Pods_MNIST_MNISTUITests {
+  umbrella header "Pods-MNIST-MNISTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
