@@ -2,7 +2,9 @@
 
 
 运行demo：
-  1. pod install
+  1. 连上手机，换一下签名证书
+  2. 可以尝试直接 run
+  3. 缺东西的话可以 pod install
 
 训练模型：
   1. 执行 MNIST.py， 得到 mnistCNN.h5 （keras model）
