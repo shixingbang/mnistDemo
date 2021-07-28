@@ -11,3 +11,5 @@
   2. 执行 convertor.py， 得到 mnist.tflite （转化为更轻量的移动端模型）
 
 安卓端也可用同样的 tflite 模型进行预测
+
+main
